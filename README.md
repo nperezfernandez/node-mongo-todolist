@@ -1,4 +1,4 @@
-# TodoApp-NodeMongo-V2
+ Mongo and node.js TodoApp
 All the following concepts can be found on my index.js file
 Unique Concepts 
 1. NO SQL Database Concept (MONGO DB).  Mongo DB allows for the usage of Mongoose which is a library that makes it easier to manipulate data and create a database on the cloud without the need of SQL.
@@ -16,19 +16,12 @@ Similar Concepts
 2. GET Request Concept (Node) (Often found in other languages like Flask). The purpose of a Get request is to get data from a server and retrieve this data.
 
 3. POST Concept (Node) (Often found in other languages like Flask) . The Post concept is a method utilized to pass data from a client to a server for the server to process this data.
-### Followed the tutorial in the form entirely https://medium.com/@diogo.fg.pinheiro/simple-to-do-list-app-with-node-js-and-mongodb-chapter-1-c645c7a27583
 
-# and part 2 https://medium.com/@diogo.fg.pinheiro/simple-to-do-list-app-with-node-js-and-mongodb-chapter-2-3780a1c5b039
+Followed the tutorial in the form entirely https://medium.com/@diogo.fg.pinheiro/simple-to-do-list-app-with-node-js-and-mongodb-chapter-1-c645c7a27583 and part 2 https://medium.com/@diogo.fg.pinheiro/simple-to-do-list-app-with-node-js-and-mongodb-chapter-2-3780a1c5b039
 
-### Installation
-`cd TodoApp-NodeMongo-V2`
+To Install:
+cd TodoApp-NodeMongo and then npm install
 
-`npm install`
-
-### Run the app
-
+ To Run the app:
 `npm start`
-
-hit the url on browser
-
 http://localhost:8000
